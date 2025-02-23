@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\insfra\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\insfra\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\model\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\model\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\insfra\\alunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\insfra\\alunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\api\\api\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D286906-B71A-4F91-9019-4EC0F937DFED}|API\\API.csproj|solutionrelative:api\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:39:51.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "API\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:35:37.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\insfra\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "API\\insfra\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\insfra\\AlunoRepository.cs",
+              "RelativeToolTip": "API\\insfra\\AlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:13:15.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\insfra\\AlunoContext.cs",
+              "RelativeDocumentMoniker": "API\\insfra\\AlunoContext.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\insfra\\AlunoContext.cs",
+              "RelativeToolTip": "API\\insfra\\AlunoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T05:08:56.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Model\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "API\\Model\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Model\\IAlunoRepository.cs",
+              "RelativeToolTip": "API\\Model\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:38:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T01:11:30.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Model\\Aluno.cs",
+              "RelativeDocumentMoniker": "API\\Model\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\API\\API\\Model\\Aluno.cs",
+              "RelativeToolTip": "API\\Model\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:35:06.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

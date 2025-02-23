@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "API.Controllers.AlunoController",
+    "Method": "Add",
+    "RelativePath": "api/aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alunoview",
+        "Type": "API.viewModel.AlunoViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.AlunoController",
+    "Method": "Get",
+    "RelativePath": "api/aluno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

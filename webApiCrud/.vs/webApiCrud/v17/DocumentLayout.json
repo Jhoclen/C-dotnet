@@ -1,58 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\",
+  "WorkspaceRootPath": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\repository csharp-dotnet\\webapicrud\\webapicrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\dto\\vinculo\\autorvinculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\dto\\vinculo\\autorvinculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\model\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\model\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\services\\livro\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\services\\livro\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\repository csharp-dotnet\\webapicrud\\webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\webapicrud\\webapicrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|c:\\users\\pczin\\desktop\\codagem\\c#\\repository csharp-dotnet\\webapicrud\\webapicrud\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09EB963-8822-462A-A610-4CB383AC1E41}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,170 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutorCriacaoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\DTO\\Autor\\AutorCriacaoDto.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\DTO\\Autor\\AutorCriacaoDto.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\DTO\\Autor\\AutorCriacaoDto.cs",
-              "RelativeToolTip": "webApiCrud\\DTO\\Autor\\AutorCriacaoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\webApiCrud\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "webApiCrud\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\webApiCrud\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "webApiCrud\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:29:40.229Z",
+              "WhenOpened": "2025-02-26T21:09:03.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AutorVinculoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\DTO\\Vinculo\\AutorVinculoDto.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\DTO\\Vinculo\\AutorVinculoDto.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\DTO\\Vinculo\\AutorVinculoDto.cs",
-              "RelativeToolTip": "webApiCrud\\DTO\\Vinculo\\AutorVinculoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:26:43.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LivroService.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\livro\\LivroService.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\services\\livro\\LivroService.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\livro\\LivroService.cs",
-              "RelativeToolTip": "webApiCrud\\services\\livro\\LivroService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJ0AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:57:42.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutorService.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\autor\\AutorService.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\services\\autor\\AutorService.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\autor\\AutorService.cs",
-              "RelativeToolTip": "webApiCrud\\services\\autor\\AutorService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwEgAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:59:53.392Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\webApiCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "webApiCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\webApiCrud\\appsettings.json",
+              "RelativeToolTip": "webApiCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T21:05:01.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LivroModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Model\\LivroModel.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\Model\\LivroModel.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Model\\LivroModel.cs",
-              "RelativeToolTip": "webApiCrud\\Model\\LivroModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\webApiCrud\\services\\livro\\LivroService.cs",
+              "RelativeDocumentMoniker": "webApiCrud\\services\\livro\\LivroService.cs",
+              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\repository Csharp-DotNet\\webApiCrud\\webApiCrud\\services\\livro\\LivroService.cs",
+              "RelativeToolTip": "webApiCrud\\services\\livro\\LivroService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:47:18.19Z",
+              "WhenOpened": "2025-02-24T20:57:42.515Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LivroController.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Controllers\\LivroController.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\Controllers\\LivroController.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Controllers\\LivroController.cs",
-              "RelativeToolTip": "webApiCrud\\Controllers\\LivroController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:42:42.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutorController.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Controllers\\AutorController.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\Controllers\\AutorController.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Controllers\\AutorController.cs",
-              "RelativeToolTip": "webApiCrud\\Controllers\\AutorController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T06:11:19.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAutorInterface.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\autor\\IAutorInterface.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\services\\autor\\IAutorInterface.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\autor\\IAutorInterface.cs",
-              "RelativeToolTip": "webApiCrud\\services\\autor\\IAutorInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:58:11.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ILivroInterface.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\livro\\ILivroInterface.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\services\\livro\\ILivroInterface.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\services\\livro\\ILivroInterface.cs",
-              "RelativeToolTip": "webApiCrud\\services\\livro\\ILivroInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:55:01.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Program.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\Program.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Program.cs",
-              "RelativeToolTip": "webApiCrud\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T00:08:43.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Model\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\Model\\ResponseModel.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Model\\ResponseModel.cs",
-              "RelativeToolTip": "webApiCrud\\Model\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T02:19:30.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\appsettings.json",
-              "RelativeDocumentMoniker": "webApiCrud\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\appsettings.json",
-              "RelativeToolTip": "webApiCrud\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T23:54:53.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "webApiCrud\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Pczin\\Desktop\\codagem\\C#\\webApiCrud\\webApiCrud\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "webApiCrud\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:51:57.042Z"
             }
           ]
         }

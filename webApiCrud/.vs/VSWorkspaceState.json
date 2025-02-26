@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webApiCrud",
+    "\\webApiCrud\\Data",
+    "\\webApiCrud\\services",
+    "\\webApiCrud\\services\\livro"
+  ],
+  "SelectedNode": "\\webApiCrud\\services\\livro\\LivroService.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -54,15 +54,16 @@ namespace webApiCrud.services.livro
                     .Include(a => a.Autor)
                     .Where(livroBanco => livroBanco.Autor.Id == idAutor)
                     .ToListAsync();
+                
 
-                if (livros == null)
+                if (livros == null || !livros.Any())
                 {
                     resposta.Mensagem = "os livros não foram localizados";
                     return resposta;
                 }
 
                 resposta.Dados = livros;
-                resposta.Mensagem = "livros  localizado";
+                resposta.Mensagem = "livros localizado";
                 return resposta;
             }
             catch (Exception ex)
@@ -107,7 +108,7 @@ namespace webApiCrud.services.livro
                 resposta.Mensagem = ex.Message;
                 resposta.Status = false;
                 return resposta;
-
+                
             }
         }
 

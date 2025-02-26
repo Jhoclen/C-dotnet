@@ -151,6 +151,136 @@
   },
   {
     "ContainingType": "webApiCrud.Controllers.LivroController",
+    "Method": "BuscarLivroPorId",
+    "RelativePath": "api/Livro/Buscarlivroporid/{Idlivro}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Idlivro",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "webApiCrud.Model.ResponseModel\u00601[[webApiCrud.Model.LivroModel, webApiCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "webApiCrud.Controllers.LivroController",
+    "Method": "BuscarLivroPorIdAutor",
+    "RelativePath": "api/Livro/BuscarLivroPorIdAutor/{IdAutor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdAutor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "webApiCrud.Model.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[webApiCrud.Model.LivroModel, webApiCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "webApiCrud.Controllers.LivroController",
+    "Method": "CriarLivro",
+    "RelativePath": "api/Livro/CriarLivro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LivroCriacaoDto",
+        "Type": "webApiCrud.DTO.Livro.LivroCriacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "webApiCrud.Model.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[webApiCrud.Model.LivroModel, webApiCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "webApiCrud.Controllers.LivroController",
+    "Method": "EditarLivro",
+    "RelativePath": "api/Livro/EditarLivro",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LivroEdicaoDto",
+        "Type": "webApiCrud.DTO.Livro.LivroEdicaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "webApiCrud.Model.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[webApiCrud.Model.LivroModel, webApiCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "webApiCrud.Controllers.LivroController",
+    "Method": "ExcluirLivro",
+    "RelativePath": "api/Livro/ExcluirLivro",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "webApiCrud.Model.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[webApiCrud.Model.LivroModel, webApiCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "webApiCrud.Controllers.LivroController",
     "Method": "listarLivros",
     "RelativePath": "api/Livro/listarLivros",
     "HttpMethod": "GET",

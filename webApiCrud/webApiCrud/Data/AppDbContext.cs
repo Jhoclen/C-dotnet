@@ -16,10 +16,11 @@ namespace webApiCrud.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var TypeDataBase = _configuration["TypeDateBase"];
+            var TypeDataBase = _configuration["TypeDataBase"];
             var connectionString = _configuration.GetConnectionString(TypeDataBase);
 
-            optionsBuilder.UseSqlite(connectionString);
+            optionsBuilder.UseMySQL(connectionString);
+  
 
         }
     }
